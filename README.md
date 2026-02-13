@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/surajprakash3/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajprakash3/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/surajprakash3/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajprakash3/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/surajprakash3/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/surajprakash3/leetcode/tree/master/0137-single-number-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/surajprakash3/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/surajprakash3/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajprakash3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
