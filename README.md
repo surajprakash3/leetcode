@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surajprakash3/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/surajprakash3/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/surajprakash3/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/surajprakash3/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/surajprakash3/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2396-strictly-palindromic-number](https://github.com/surajprakash3/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Math
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surajprakash3/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajprakash3/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surajprakash3/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajprakash3/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
