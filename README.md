@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/surajprakash3/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajprakash3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/surajprakash3/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/surajprakash3/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajprakash3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/surajprakash3/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/surajprakash3/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/surajprakash3/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
