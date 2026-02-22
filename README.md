@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajprakash3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/surajprakash3/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajprakash3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2396-strictly-palindromic-number](https://github.com/surajprakash3/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Math
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/surajprakash3/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajprakash3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
