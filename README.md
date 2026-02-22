@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/surajprakash3/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajprakash3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/surajprakash3/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/surajprakash3/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/surajprakash3/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajprakash3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajprakash3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/surajprakash3/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajprakash3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/surajprakash3/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/surajprakash3/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
