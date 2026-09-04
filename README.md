@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajprakash3/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/surajprakash3/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/surajprakash3/leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/surajprakash3/leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/surajprakash3/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajprakash3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/surajprakash3/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surajprakash3/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajprakash3/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/surajprakash3/leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/surajprakash3/leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/surajprakash3/leetcode/tree/master/0709-to-lower-case) |
 | [3884-first-matching-character-from-both-ends](https://github.com/surajprakash3/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Brainteaser
