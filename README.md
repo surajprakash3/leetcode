@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajprakash3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/surajprakash3/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/surajprakash3/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajprakash3/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajprakash3/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/surajprakash3/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/surajprakash3/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajprakash3/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/surajprakash3/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/surajprakash3/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajprakash3/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/surajprakash3/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/surajprakash3/leetcode/tree/master/1051-height-checker) |
 ## Linked List
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajprakash3/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/surajprakash3/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
